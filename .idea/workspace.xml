@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa2e91a3-54aa-4539-9116-4cf786f51e91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BP-session04_prime_number/prime_number.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP-session05_banco_caro/co_caro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP-session3_maytinh/maytinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_PreTest/RemoteTiVi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_PreTest/baiTap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_PreTest/baiTap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_Section02_sudungtoantu_bai3/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_Section03_ECMAScript/ECMAScript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_Section03_Namnhuan/namnhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_Section3_login/.idea/BP_Section3_login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_Section3_login/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_Section3_login/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_Section3_login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_Section3_login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section01_hienthidaura/HamConsole.log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section01_hienthidaura/HamDocument.write.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section01_hienthidaura/hamAlert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section01_hienthidaura/theHTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section2_bienkieudulieutoantu_bai1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section2_bienkieudulieutoantu_bai2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section2_bienkieudulieutoantu_bai3_Dtichhintron/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section2_bienkieudulieutoantu_bai4_Chuvihinhtron/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_01_hienthidaura_bai4/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_Exchangemoney/.idea/BP_section_02_Exchangemoney.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_Exchangemoney/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_Exchangemoney/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_Exchangemoney/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_Exchangemoney/ExchangeMoney.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_Exchangemoney/exchange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_khaibaosudungbien_bai1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_khaibaosudungbien_bai2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_khaibaosudungbien_bai3/.idea/BP_section_02_khaibaosudungbien_bai3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_khaibaosudungbien_bai3/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_sudungtoantu.bai2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_sudungtoantu.bai2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_sudungtoantu/sudungtoantu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_sudungtoantu/toantuScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_section_02_ungdungmaytinh/ungdungmaytinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session03_chisoBMI/chisoBMI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session03_luyentaptoantu_bai1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session03_luyentaptoantu_bai2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session03_puzzlegame/puzzlegame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session03_sukienchuot/soccer_ball.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session03_sukienchuot/sukienchuot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session03_switchcase_bai1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session03_tinhngaytrongthang/tinhngay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session04_bang_cuu_chuong/bangcuuchuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session04_lvonglap_For_bai1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session04_lvonglap_For_bai2_tinhtong/tinhtong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session04_so_nguyen_to/so_nguyen_to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session04_so_nguyen_to/songuyento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session04_songuyento/songuyento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session05_Tic_Tac_Toe/ung_dung_choi_co_caro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session05_add-between_two_even_number/tach_mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session05_bai1_noiphantutrongmang/noiphantu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session05_chuyendoichu_Hoa_thuong/cach2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session05_chuyendoichu_Hoa_thuong/chu_Hoa_Thuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session05_dao_nguoc_mang/dao_nguoc_mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session05_tim_Max_trong_mang/tim_Max.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session05_timgiatri_trongmang/find_value.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session05_tudien/tu_dien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_ChuyendoiFootMeters/chuyendoi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_chuyenDoiNhietDo/.idea/BP_session06_chuyenDoiNhietDo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_chuyenDoiNhietDo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_chuyenDoiNhietDo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_chuyenDoiNhietDo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_chuyenDoiNhietDo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_kiemtraSoNguyenTo/songuyento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taoHam/taoHam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham01/baiTap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham01/baiTap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham01/baiTap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham01/baiTap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham01/baiTapp5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham2/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham2/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham2/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham2/baitap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham2/baitap5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham2/baitap6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham2/baitap7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham2/baitap8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham2/baitap9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session06_timMinTrongMang/timMin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DienThoai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DienThoai.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session07_xaydung_lop_Hinhtron/Circle_Class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session07_xaydung_lop_mota_HinhChuNhat/hinhchunhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session07_xaydunglopDate/dateClass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session07_xaydunglopDate/ddMMyyyy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session07_xaydunglop_mota_temperature/temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session4_vonglap_longnhau/demo_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session4_vonglap_longnhau/nested_loop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session5_taolapmang/tao_mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session7_FunnyCircle/funnyCircle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session_04_dowhile_sample/dowhilesample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_sessison4_vonglapWhile/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_sessison4_vonglapWhile_the_hr/th_hr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Do_You_Love_Me/loveme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_session03_switchcase_bai2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_session03_switchcase_bai3_nhapso/nhapso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_01_hienthidaura_bai1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VuThuyLinh_kiemtra_July4_2019/Baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VuThuyLinh_kiemtra_July4_2019/Baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VuThuyLinh_kiemtra_July4_2019/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VuThuyLinh_kiemtra_July4_2019/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cat1/funny-cat1_part1x1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cat2/funny-cat1_part2x1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2ungdungmaytinh/demo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2ungdungmaytinh/exchange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoConstant/.idea/demoConstant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoConstant/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoConstant/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoConstant/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoConstant/constant.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoConstant/script_demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Session03_baigiang/demo-bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_table/demo_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hamNhapMangHaiChieu/manghaichieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section_01_hienthidaura_bai2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ungdungmaytinh/maytinh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ungdungmaytinh/ungdungmaytinh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap2" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap2" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DienThoai.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DienThoai.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="98" column="29" selection-end-line="98" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mobile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DienThoai.html" />
+        <option value="$PROJECT_DIR$/DienThoai.js" />
+        <option value="$PROJECT_DIR$/Mobile.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/BP_session07_DienThoai.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="888" />
+    <option name="width" value="1059" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BP_session07_DienThoai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BP_session07_DienThoai" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa2e91a3-54aa-4539-9116-4cf786f51e91" name="Default Changelist" comment="" />
+      <created>1562491281561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562491281561</updated>
+      <workItem from="1562491282934" duration="1138000" />
+      <workItem from="1562552876994" duration="5625000" />
+      <workItem from="1562635300567" duration="1572000" />
+      <workItem from="1562720919546" duration="9245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17580000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.023847377" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.1758437" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DienThoai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DienThoai.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="98" column="29" selection-end-line="98" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
